@@ -7,7 +7,7 @@ div {
     width:97.5%;
     background-color:#668284;
     position: fixed;
-    z-index: 1
+    z-index: 1;
     margin-top: -20px;
     margin-bottom: 10px;
 }
